@@ -1,0 +1,174 @@
+{
+    "data": [
+        {"ourQualities" : [
+            {
+                "id": 1,
+                "image": "./quality_food.svg",
+                "title": "PREMIUM INGREDIENTS",
+                "description": "We source only the finest ingredients, ensuring each dish delivers exceptional flavor and quality with every bite."
+            },
+            {
+                "id": 2,
+                "image": "./super_taste.svg",
+                "title": "CULINARY EXCELLENCE",
+                "description": "Our chefs blend traditional techniques with innovative approaches to create memorable dining experiences that delight the senses."
+            },
+            {
+                "id": 3,
+                "image": "./fast_delivery.svg",
+                "title": "PROMPT SERVICE",
+                "description": "From kitchen to table, we pride ourselves on swift and attentive service that respects your time without compromising quality."
+            }
+        ],
+        "dishes": [
+            {
+                "id": 1,
+                "image": "./dinner1.jpeg",
+                "title": "HERB-CRUSTED LAMB",
+                "category": "Dinner"
+            },
+            {
+                "id": 2,
+                "image": "./dinner2.png",
+                "title": "NORDIC GRAVLAX",
+                "category": "Dinner"
+            },
+            {
+                "id": 3,
+                "image": "./breakfast1.png",
+                "title": "MEDITERRANEAN BASS",
+                "category": "Breakfast"
+            },
+            {
+                "id": 4,
+                "image": "./dinner3.png",
+                "title": "BERRY DELIGHT",
+                "category": "Dinner"
+            },
+            {
+                "id": 5,
+                "image": "./lunch1.png",
+                "title": "GOURMET BURGER",
+                "category": "Lunch"
+            },
+            {
+                "id": 6,
+                "image": "./dinner4.png",
+                "title": "SEAFOOD BISQUE",
+                "category": "Dinner"
+            },
+            {
+                "id": 7,
+                "image": "./dinner5.png",
+                "title": "PASTA PRIMAVERA",
+                "category": "Dinner"
+            },
+            {
+                "id": 8,
+                "image": "./dinner6.png",
+                "title": "LEMON BUTTER FISH",
+                "category": "Dinner"
+            }
+        ],
+        "team": [
+            {
+                "id": 1,
+                "image": "./team_member_1.png",
+                "name": "MICHAEL HARRISON",
+                "designation": "Founder & Head Chef"
+            },
+            {
+                "id": 2,
+                "image": "./team_member_2.png",
+                "name": "DANIEL PARKER",
+                "designation": "Sous Chef"
+            },
+            {
+                "id": 3,
+                "image": "./team_member_3.png",
+                "name": "THOMAS REID",
+                "designation": "Fast Food Chef"
+            },
+            {
+                "id": 4,
+                "image": "./team_member_4.png",
+                "name": "RYAN SMITH",
+                "designation": "Senior Chef"
+            }
+        ],
+        "testimonials": [
+            {
+                "id": 1,
+                "image": "./review1.png",
+                "description": "The attention to detail and flavors in each dish were extraordinary. Every bite was a perfect balance of texture and taste. The ambiance complemented the culinary journey, making our evening truly special.",
+                "rating": 4,
+                "userName": "Jane Cooper"
+            },
+            {
+                "id": 2,
+                "image": "./review2.png",
+                "description": "From the moment we arrived, the service was impeccable. The seasonal menu showcased fresh ingredients in creative ways that surprised and delighted our palates. Will definitely return for more culinary adventures.",
+                "rating": 4.5,
+                "userName": "Esther Howard"
+            },
+            {
+                "id": 3,
+                "image": "./review3.png",
+                "description": "An exceptional dining experience from start to finish. The chef's tasting menu was a revelation, with each course thoughtfully prepared and beautifully presented. The wine pairings were equally impressive.",
+                "rating": 5,
+                "userName": "Guy Hawkins"
+            }
+        ],
+        "who_we_are": [
+            {
+                "id": 1,
+                "number": "14",
+                "title": "Global Locations"
+            },
+            {
+                "id": 2,
+                "number": "20",
+                "title": "Master Chefs"
+            },
+            {
+                "id": 3,
+                "number": "08",
+                "title": "Culinary Excellence"
+            },
+            {
+                "id": 4,
+                "number": "200",
+                "title": "Signature Dishes"
+            }
+        ],
+        "navbarLinks": [
+            {
+                "id": 1,
+                "title": "WELCOME",
+                "link": "heroSection"
+            },
+            {
+                "id": 2,
+                "title": "OUR STORY",
+                "link": "about"
+            },
+            {
+                "id": 3,
+                "title": "OFFERINGS",
+                "link": "qualities"
+            },
+            {
+                "id": 4,
+                "title": "CHEFS",
+                "link": "team"
+            },
+            {
+                "id": 5,
+                "title": "BOOK A TABLE",
+                "link": "reservation"
+            }
+        ]
+    
+    } 
+    ]
+}
